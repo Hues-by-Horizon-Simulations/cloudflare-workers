@@ -1,4 +1,4 @@
-name = "fbw-cdn-worker"
+name = "hsim-cdn-worker"
 main = "src/index.ts"
 compatibility_date = "2022-05-15"
 # Set this to false if you don't want to use the default *.workers.dev route.
@@ -26,4 +26,4 @@ INDEX_FILE = "index.html"
 
 [[r2_buckets]]
 binding = 'R2_BUCKET'
-bucket_name = 'fbw-cdn-bucket'
+bucket_name = 'horizonsimulations'
