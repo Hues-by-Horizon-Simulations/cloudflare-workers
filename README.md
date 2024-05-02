@@ -1,4 +1,4 @@
-![HUES-Logo](./branding/Branding/BANNER.png)
+![HUES-Logo](https://github.com/Hues-by-Horizon-Simulations/branding/blob/main/Branding/BANNER.png)
 
 # Hues by Horizon Simulations Cloudflare Workers
 
