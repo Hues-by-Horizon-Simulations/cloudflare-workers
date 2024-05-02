@@ -1,4 +1,4 @@
-![HUES-Logo](./Branding/BANNER.png)
+![HUES-Logo](./branding/Branding/BANNER.png)
 
 # Hues by Horizon Simulations Cloudflare Workers
 
